@@ -1,17 +1,16 @@
 # getting-and-cleaning-data-peer-reviewed-project
 Author: Mohammad Rafiqul Islam
-B
+
 
 Goal of the Project
-1.A tidy data set
-2.A link to a Github repository with your script for performing the analysis
-3.A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
-4.Analysis R Script
+- A tidy data set
+- A link to a Github repository with the script for performing the analysis
+- A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. It is also included a README.md in the repo with your scripts, which explains how all of the scripts work and how they are connected.
+- R Script
 
-Review Criteria
-Goal	Item	Link to Item
-Analysis R Script	run_analysis.R	R Script Link
-Tidy Data Set	Clean Data Set	Data Set Link
-Github Repo	Repo	Repo Link
-Cookbook	CodeBook.md	Repo Link
-README	ReadingItNow	Repo Link
+Review Citeria
+-The R Script (as"w-4-assignment.R")
+Tidy Data Set	which is Clean Data Set	(as"tidydata,csv")
+Github Repo	
+Cookbook	(as CodeBook.md0
+README	(READ.md)
